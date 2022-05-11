@@ -11,5 +11,7 @@ Things you may want to cover:
 
 * Database initialization : rails db:create db:migrate db:seed
 
-* Deployment instructions : rails s 
+* Deployment instructions : rails s
+
+* Execute app in localhots:3000/products > Click button show: Execute function refactor
 
